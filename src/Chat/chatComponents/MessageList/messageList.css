@@ -1,0 +1,17 @@
+.message-list{
+    padding: 10px;
+}
+.messages-divider{
+    
+        height: 30px;
+        width: 200px;
+        border: 2px solid #dedede;
+        background-color: #f1f1f1;
+        border-radius: 5px;
+        
+        margin-left: 500px;
+        margin-top: 20px;
+        font-size: 18px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+}

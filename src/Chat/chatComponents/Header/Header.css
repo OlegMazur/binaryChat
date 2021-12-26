@@ -1,0 +1,23 @@
+.header {
+    border: 2px solid #dedede;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+}
+.header-title{
+    margin-left: 40px;
+    font-size:18px;
+}
+.header-users-count{
+    margin-left: 40px;
+    font-size:18px;
+}
+.header-messages-count{
+    margin-left: 40px;
+    font-size:18px;
+}
+.header-last-message-date{
+    margin-left: 40px;
+    font-size:18px;
+}
